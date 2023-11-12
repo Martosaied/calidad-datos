@@ -1,0 +1,353 @@
+Country,Type,Type
+Algeria,Unprovoked,1
+American Samoa,Unprovoked,3
+Angola,Unprovoked,1
+Antigua and Barbuda,Invalid,1
+Antigua and Barbuda,Sea Disaster,1
+Arabian Sea,Unprovoked,1
+Argentina,Invalid,1
+Argentina,Unprovoked,1
+Aruba,Unprovoked,1
+Atlantic Ocean,Sea Disaster,16
+Atlantic Ocean,Unprovoked,12
+Atlantic Ocean,Watercraft,5
+Atlantic Ocean,Invalid,3
+Atlantic Ocean,Provoked,3
+Australia,Unprovoked,1048
+Australia,Provoked,144
+Australia,Watercraft,129
+Australia,Invalid,127
+Australia,Sea Disaster,25
+Bahrain,Unprovoked,1
+Bangladesh,Sea Disaster,1
+Barbados,Unprovoked,5
+Barbados,Sea Disaster,1
+Belize,Unprovoked,4
+Belize,Provoked,2
+Belize,Invalid,1
+Brazil,Unprovoked,101
+Brazil,Invalid,10
+Brazil,Provoked,6
+Brazil,Sea Disaster,5
+British Overseas Territories,Unprovoked,20
+British Overseas Territories,Invalid,6
+British Overseas Territories,Sea Disaster,4
+British Overseas Territories,Provoked,2
+British Overseas Territories,Watercraft,1
+Canada,Unprovoked,5
+Canada,Watercraft,3
+Canada,Provoked,2
+Canada,Sea Disaster,2
+Canada,Invalid,1
+Cape Verde,Invalid,2
+Cape Verde,Unprovoked,1
+Caribbean Sea,Sea Disaster,3
+Caribbean Sea,Unprovoked,2
+Caribbean Sea,Watercraft,2
+Caribbean Sea,Invalid,1
+Chile,Unprovoked,7
+Chile,Provoked,1
+Colombia,Unprovoked,10
+Colombia,Invalid,1
+Colombia,Sea Disaster,1
+Comoros,Invalid,1
+Cook Islands,Sea Disaster,1
+Costa Rica,Unprovoked,16
+Costa Rica,Invalid,2
+Croatia,Unprovoked,22
+Croatia,Invalid,8
+Croatia,Provoked,3
+Croatia,Watercraft,3
+Cuba,Unprovoked,31
+Cuba,Sea Disaster,7
+Cuba,Provoked,4
+Cuba,Invalid,3
+Cuba,Watercraft,1
+Curacao,Unprovoked,1
+Curaçao,Unprovoked,1
+Cyprus,Unprovoked,1
+Djibouti,Unprovoked,1
+Dominican Republic,Unprovoked,4
+Dominican Republic,Sea Disaster,3
+Dominican Republic,Provoked,1
+Ecuador,Unprovoked,11
+Egypt,Unprovoked,45
+Egypt,Invalid,4
+Egypt,Sea Disaster,2
+El Salvador,Unprovoked,2
+El Salvador,Provoked,1
+El Salvador,Watercraft,1
+Equatorial Guinea,Unprovoked,1
+Federated States of Micronesia,Unprovoked,4
+Fiji,Unprovoked,61
+Fiji,Provoked,3
+Fiji,Sea Disaster,3
+Fiji,Invalid,2
+Fiji,Watercraft,1
+France,Unprovoked,7
+France,Provoked,3
+France,Invalid,2
+France,Watercraft,1
+French Overseas Territories,Unprovoked,123
+French Overseas Territories,Sea Disaster,4
+French Overseas Territories,Watercraft,4
+French Overseas Territories,Invalid,3
+French Overseas Territories,Provoked,1
+French Polynesia,Unprovoked,30
+French Polynesia,Provoked,6
+French Polynesia,Invalid,1
+Gabon,Unprovoked,1
+Georgia,Provoked,1
+Ghana,Unprovoked,1
+Greece,Unprovoked,18
+Greece,Invalid,6
+Greece,Sea Disaster,2
+Greenland,Watercraft,1
+Grenada,Unprovoked,4
+Guam,Unprovoked,2
+Guam,Invalid,1
+Guam,Provoked,1
+Guatemala,Invalid,1
+Guinea,Unprovoked,2
+Guinea,Invalid,1
+Guyana,Invalid,1
+Guyana,Sea Disaster,1
+Guyana,Unprovoked,1
+Haiti,Unprovoked,2
+Haiti,Invalid,1
+Honduras,Unprovoked,3
+Honduras,Invalid,1
+Honduras,Sea Disaster,1
+Hong Kong,Unprovoked,23
+Hong Kong,Sea Disaster,1
+Iceland,Invalid,1
+Iceland,Unprovoked,1
+India,Unprovoked,40
+India,Sea Disaster,2
+India,Invalid,1
+India,Provoked,1
+India,Watercraft,1
+Indian Ocean,Sea Disaster,3
+Indian Ocean,Unprovoked,3
+Indian Ocean,Invalid,2
+Indonesia,Unprovoked,18
+Indonesia,Sea Disaster,6
+Indonesia,Invalid,1
+Iran,Unprovoked,29
+Iran,Provoked,1
+Iraq,Unprovoked,12
+Islas Malvinas,Unprovoked,1
+Israel,Unprovoked,5
+Israel,Invalid,1
+Israel,Provoked,1
+Israel,Watercraft,1
+Italy,Unprovoked,27
+Italy,Watercraft,16
+Italy,Provoked,13
+Italy,Invalid,12
+Italy,Sea Disaster,4
+Jamaica,Unprovoked,24
+Jamaica,Invalid,3
+Jamaica,Provoked,2
+Jamaica,Sea Disaster,1
+Japan,Unprovoked,30
+Japan,Invalid,5
+Japan,Sea Disaster,3
+Japan,Provoked,2
+Japan,Watercraft,2
+Jordan,Unprovoked,1
+Kenya,Unprovoked,10
+Kingdom of Africa,Unprovoked,1
+Kiribati,Unprovoked,4
+Kiribati,Sea Disaster,2
+Kuwait,Unprovoked,1
+Lebanon,Unprovoked,3
+Liberia,Unprovoked,2
+Liberia,Invalid,1
+Libya,Unprovoked,5
+Libya,Sea Disaster,1
+Madagascar,Unprovoked,6
+Madagascar,Invalid,1
+Madagascar,Provoked,1
+Magadascar,Sea Disaster,1
+Malaysia,Unprovoked,3
+Malaysia,Invalid,1
+Malaysia,Provoked,1
+Maldives,Unprovoked,3
+Maldives,Provoked,1
+Maldives,Sea Disaster,1
+Malta,Unprovoked,3
+Malta,Watercraft,2
+Marshall Islands,Unprovoked,11
+Marshall Islands,Invalid,2
+Mauritius,Unprovoked,7
+Mauritius,Provoked,2
+Mauritius,Sea Disaster,1
+Mediterranean Sea,Unprovoked,2
+Mexico,Unprovoked,72
+Mexico,Invalid,12
+Mexico,Provoked,12
+Mexico,Sea Disaster,3
+Mexico,Watercraft,3
+Monaco,Unprovoked,1
+Montenegro,Invalid,1
+Montenegro,Unprovoked,1
+Montenegro,Watercraft,1
+Mozambique,Unprovoked,38
+Mozambique,Invalid,4
+Mozambique,Sea Disaster,2
+Mozambique,Watercraft,2
+Myanmar,Unprovoked,3
+Myanmar,Provoked,1
+Namibia,Provoked,1
+Namibia,Unprovoked,1
+New Zealand,Unprovoked,93
+New Zealand,Provoked,21
+New Zealand,Watercraft,17
+New Zealand,Invalid,13
+Nicaragua,Unprovoked,6
+Nicaragua,Provoked,1
+Nigeria,Unprovoked,4
+Northern Mariana Islands,Unprovoked,1
+Norway,Invalid,1
+Norway,Provoked,1
+Pacific Ocean,Sea Disaster,19
+Pacific Ocean,Unprovoked,7
+Pacific Ocean,Provoked,5
+Pacific Ocean,Invalid,2
+Palau,Unprovoked,4
+Palau,Provoked,1
+Panama,Unprovoked,27
+Panama,Provoked,4
+Panama,Invalid,1
+Papua New Guinea,Unprovoked,121
+Papua New Guinea,Provoked,14
+Papua New Guinea,Sea Disaster,6
+Papua New Guinea,Watercraft,3
+Papua New Guinea,Invalid,2
+Papua Nueva Guinea,Unprovoked,8
+Paraguay,Unprovoked,1
+People's Republic of China,Unprovoked,5
+People's Republic of China,Provoked,3
+People's Republic of China,Sea Disaster,1
+Persian Gulf,Unprovoked,3
+Persian Gulf,Sea Disaster,1
+Peru,Unprovoked,2
+Philippines,Unprovoked,32
+Philippines,Sea Disaster,26
+Philippines,Invalid,4
+Philippines,Provoked,2
+Portugal,Watercraft,4
+Portugal,Provoked,3
+Portugal,Invalid,2
+Puerto Rico,Unprovoked,1
+Red Sea,Unprovoked,2
+Red Sea,Sea Disaster,1
+Republic of Ireland,Provoked,1
+Republic of Ireland,Sea Disaster,1
+Russia,Unprovoked,4
+Saint Kitts and Nevis,Invalid,2
+Saint Kitts and Nevis,Unprovoked,1
+Samoa,Unprovoked,7
+Samoa,Provoked,1
+Samoa,Sea Disaster,1
+Samoa,Watercraft,1
+Saudi Arabia,Unprovoked,4
+Saudi Arabia,Invalid,1
+Senegal,Unprovoked,6
+Senegal,Invalid,2
+Senegal,Provoked,2
+Senegal,Sea Disaster,1
+Seychelles,Unprovoked,9
+Seychelles,Invalid,1
+Sierra Leone,Unprovoked,7
+Sierra Leone,Sea Disaster,2
+Singapore,Unprovoked,6
+Slovenia,Unprovoked,1
+Slovenia,Watercraft,1
+Solomon Islands,Unprovoked,21
+Solomon Islands,Sea Disaster,8
+Solomon Islands,Provoked,1
+Somalia,Unprovoked,4
+Somalia,Invalid,1
+Somalia,Provoked,1
+South Africa,Unprovoked,414
+South Africa,Invalid,66
+South Africa,Provoked,57
+South Africa,Watercraft,55
+South Africa,Sea Disaster,5
+South China Sea,Unprovoked,1
+South Korea,Unprovoked,9
+Spain,Unprovoked,30
+Spain,Invalid,10
+Spain,Provoked,5
+Spain,Watercraft,1
+Sri Lanka,Unprovoked,14
+Sri Lanka,Invalid,2
+Sri Lanka,Sea Disaster,1
+St. Martin,Unprovoked,2
+St. Martin,Watercraft,1
+State of Palestine,Provoked,1
+Sudan,Provoked,2
+Sudan,Unprovoked,2
+Sudan,Sea Disaster,1
+Sweden,Unprovoked,1
+Syria,Invalid,1
+São Tomé and Príncipe,Unprovoked,1
+Taiwan,Unprovoked,6
+Taiwan,Provoked,2
+Taiwan,Sea Disaster,1
+Tanzania,Unprovoked,6
+Tanzania,Invalid,1
+Tanzania,Provoked,1
+Thailand,Unprovoked,10
+Thailand,Provoked,2
+The Bahamas,Unprovoked,102
+The Bahamas,Provoked,18
+The Bahamas,Invalid,7
+The Bahamas,Sea Disaster,5
+The Bahamas,Watercraft,1
+Tonga,Unprovoked,12
+Tonga,Invalid,2
+Tonga,Provoked,2
+Tonga,Sea Disaster,2
+Trinidad and Tobago,Unprovoked,3
+Trinidad and Tobago,Invalid,1
+Trinidad and Tobago,Provoked,1
+Tunisia,Unprovoked,3
+Turkey,Watercraft,6
+Turkey,Unprovoked,4
+Turkey,Invalid,1
+Turkey,Provoked,1
+Tuvalu,Sea Disaster,1
+United Arab Emirates,Unprovoked,2
+United Arab Emirates,Invalid,1
+United Arab Emirates,Watercraft,1
+United Kingdom,Provoked,19
+United Kingdom,Unprovoked,17
+United Kingdom,Watercraft,6
+United Kingdom,Invalid,3
+United States of America,Unprovoked,1973
+United States of America,Provoked,234
+United States of America,Invalid,209
+United States of America,Watercraft,83
+United States of America,Sea Disaster,36
+United States of America,Questionable,2
+United States of America,Under investigation,1
+Unknown,Unprovoked,33
+Unknown,Sea Disaster,6
+Unknown,Invalid,4
+Unknown,Provoked,3
+Unknown,Watercraft,1
+Uruguay,Unprovoked,4
+Vanuatu,Unprovoked,12
+Vanuatu,Provoked,1
+Vanuatu,Sea Disaster,1
+Vanuatu,Watercraft,1
+Venezuela,Unprovoked,11
+Vietnam,Unprovoked,12
+Vietnam,Sea Disaster,2
+Vietnam,Provoked,1
+Yemen,Unprovoked,8
+Yemen,Invalid,1
+Yemen,Sea Disaster,1
